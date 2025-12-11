@@ -1,2 +1,7 @@
-# SUGENDER---Conference-Application-Website
-We developed a website for SUGENDER using Kuika, a low-code platform that enabled our team to build efficiently without getting lost in technical complexity.
+# SUGENDER Conference Application Website
+
+We developed a multi-page conference website for **SUGENDER** using **Kuika**, a low-code platform that allowed rapid prototyping and efficient development without extensive technical overhead.
+
+Throughout the process, we designed and structured **25+ pages**, focusing on clear navigation, responsive layout, and a user-friendly experience.
+
+Below are a few example previews from the application:
